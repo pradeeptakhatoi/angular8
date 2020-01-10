@@ -1,0 +1,25 @@
+* {
+    font-size: 16px !important;
+}
+.form-control {
+    padding: 18px 5px !important;
+}
+label { font-size: 14px !important; }
+h3 { font-size: 22px !important; }
+
+
+#login .container #login-row #login-column #login-box {
+    margin-top: 120px;
+    max-width: 600px;
+    height: 320px;
+    border: 1px solid #9C9C9C;
+    // background-color: #EAEAEA;
+}
+
+#login .container #login-row #login-column #login-box #login-form {
+    padding: 20px;
+}
+
+#login .container #login-row #login-column #login-box #login-form #register-link {
+    margin-top: -85px;
+}
